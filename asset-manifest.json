@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skillTree/static/css/main.8b064b17.css",
+    "main.js": "/skillTree/static/js/main.a42b79be.js",
+    "index.html": "/skillTree/index.html",
+    "main.8b064b17.css.map": "/skillTree/static/css/main.8b064b17.css.map",
+    "main.a42b79be.js.map": "/skillTree/static/js/main.a42b79be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b064b17.css",
+    "static/js/main.a42b79be.js"
+  ]
+}
